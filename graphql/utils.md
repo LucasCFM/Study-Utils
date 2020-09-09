@@ -1,3 +1,3 @@
 ### GraphQL utils resources
 
-[FakeQL](https://fakeql.com/) - A Fake server GraphQL for mocking data
+[FakeQL](https://fakeql.com/) - A fake GraphQL server for mocking data
