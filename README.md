@@ -5,11 +5,13 @@ Study &amp; Utils resources for better programming
 [[_TOC_]]
 
 
+## Software Engineering
+[Utils resources](software-eng/utils.md)  
+
+
 ## Markdown
-[markdown-utils](markdown/utils.md)  
-[markdown-study](markdown/study.md)  
+[Study content](markdown/study.md)  
 
 
 ## GraphQL
-[graphql-utils](graphql/utils.md)  
-[graphql-study](graphql/study.md)  
+[Utils resources](graphql/utils.md)  
