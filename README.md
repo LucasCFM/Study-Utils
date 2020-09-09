@@ -6,10 +6,10 @@ Study &amp; Utils resources for better programming
 
 
 ## Markdown
-[markdown][markdown/utils.md]
-[markdown][markdown/study.md]
+[markdown](markdown/utils.md)
+[markdown](markdown/study.md)
 
 
 ## GraphQL
-[markdown][graphql/utils.md]
-[markdown][graphql/study.md]
+[markdown](graphql/utils.md)
+[markdown](graphql/study.md)
