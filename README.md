@@ -3,9 +3,9 @@ Study &amp; Utils resources for better programming
 
 
 ## Great softwares
-[AirTable](https://airtable.com/) - Database spreadsheet for anything
-[QBitTorrent](https://www.qbittorrent.org/) - Great torrent client
-[Toggl](https://toggl.com/) - Time/Task tracking
+[AirTable](https://airtable.com/) - Database spreadsheet for anything  
+[QBitTorrent](https://www.qbittorrent.org/) - Great torrent client  
+[Toggl](https://toggl.com/) - Time/Task tracking  
 
 
 ## Software Engineering
